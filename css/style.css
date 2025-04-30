@@ -35,10 +35,7 @@ body {
   border-radius: 10px;
   padding: 25px;
 }
-#main-container:hover{
-    -webkit-animation: shadow-pop-tr 0.3s ease-out both;
-    animation: shadow-pop-tr 0.3s ease-out both;
-}
+
 
 #main-container h1 {
   text-align: center;
